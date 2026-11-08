@@ -1,9 +1,10 @@
-# Notre équipe
+# Composition de l'Équipe
 
-| Rôle | Nom Prénom | Pseudo GitHub |
-| --- | --- | --- |
-| collab-1 | Tchakounte Ingrid | @tchakounteingrid237-lang |
-| collab-2 | ... | ... |
-| collab-3 | ... | ... |
+- **Cheffe de projet (Lead Git & CI/CD) :** Ingrid Tchakounte
+- **Développeur / Structure HTML :** Kone Nabintou
+- **Documentation & Rédaction :** Brile Ayemele
 
-Date de l'atelier : 08/11/2026
+## Répartition des tâches
+- **Ingrid :** Initialisation du dépôt et configuration de la CI/CD (GitHub Actions).
+- **Kone Nabintou :** Intégration et validation de la structure HTML (`index.html`).
+- **Brile :** Rédaction de la documentation globale et des fiches d'équipe.

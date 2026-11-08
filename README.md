@@ -109,3 +109,6 @@ Envoyez à votre enseignant :
 - les **pseudos GitHub** des membres.
 
 Bon atelier !
+
+## Équipe du Projet
+- Ce projet est réalisé par : Ingrid, Kone Nabintou et Brile[cite: 1].
