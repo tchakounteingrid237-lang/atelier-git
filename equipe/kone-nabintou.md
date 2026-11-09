@@ -1,10 +1,5 @@
 # Fiche Membre : Kone Nabintou
-<<<<<<< HEAD
-- **Pseudo :** konenabintoukone-wq
-=======
-
-- pseudo git : konenabintoukone-wq
->>>>>>> dddb8bc3d380e9bf7037220ca7bf6739ca7478b7
+- **Pseudo git :** konenabintoukone-wq
 - **Rôle :** Développeur / Structure HTML
 - **Tâches assignées :** Intégration et validation du fichier `index.html`
 
