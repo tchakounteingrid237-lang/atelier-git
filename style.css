@@ -1,8 +1,15 @@
 /* Style du site */
 h1 {
-  color: red;
+    color: red;
 }
 h2 {
-  color: green;
+    color: green;
 }
-@media (max-width: 600px)
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-size: 1.2rem;
+    }
+}
