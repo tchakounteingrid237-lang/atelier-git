@@ -4,6 +4,7 @@
 - **Tâches assignées :** 
   - Rédaction du fichier `README.md`
   - Création du fichier `EQUIPE.md` et des fiches d'équipe
+  -pseudo git:brileayemele2-commits
 
 ## Quiz
 
