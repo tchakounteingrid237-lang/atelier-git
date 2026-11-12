@@ -19,3 +19,17 @@ h2 {
 }
 
 /* Affichage mobile */
+
+@media print {
+  body {
+    color: black;
+  }
+}
+
+@media print {
+  h1 {
+    font-size: 24pt;
+  }
+}
+
+/* Impression */
